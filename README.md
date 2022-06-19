@@ -8,7 +8,7 @@ I'm an Experienced Python Developer adept in all stages of advanced web developm
 
 * 🌍  I'm based in Nuremberg, Germany
 * ✉️  You can contact me at [millerserhii@gmail.com](mailto:millerserhii@gmail.com)
-* 🚀  I'm currently working on [Leomax Engineering](http://leomax.de)
+* 🚀  I'm currently working at [Leomax Engineering](http://leomax.de)
 * 🧠  I'm learning ThreeJS
 * 🤝  I'm open to collaborating on interesting projects
 
@@ -42,6 +42,7 @@ I'm an Experienced Python Developer adept in all stages of advanced web developm
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/millerserhii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/millerserhii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/millerserhii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
