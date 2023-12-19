@@ -9,7 +9,7 @@ I'm an Experienced Python Developer adept in all stages of advanced web developm
 * 🌍  I'm based in Nuremberg, Germany
 * ✉️  You can contact me at [millerserhii@gmail.com](mailto:millerserhii@gmail.com)
 * 🚀  I'm currently working at [Leomax Engineering](http://leomax.de)
-* 🧠  I'm learning ThreeJS
+* 🧠  I'm learning Flutter
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
