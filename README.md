@@ -1,15 +1,15 @@
 Hi 👋 My name is Sergej Müller
 ==============================
 
-Python developer
+Full-Stack developer
 ----------------
 
-I'm an Experienced Python Developer adept in all stages of advanced web development. In passion about automating any routine task and creating new impressive Apps.
+I'm an experienced full-stack developer, adept in all stages of advanced web development. Passionate about automating any routine task and creating new impressive applications. 
 
 * 🌍  I'm based in Nuremberg, Germany
 * ✉️  You can contact me at [millerserhii@gmail.com](mailto:millerserhii@gmail.com)
 * 🚀  I'm currently working at [Leomax Engineering](http://leomax.de)
-* 🧠  I'm learning Flutter
+* 🧠  I'm learning Flutter & Rust
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
