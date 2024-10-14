@@ -8,7 +8,6 @@ I'm an experienced full-stack developer, adept in all stages of advanced web dev
 
 * 🌍  I'm based in Nuremberg, Germany
 * ✉️  You can contact me at [millerserhii@gmail.com](mailto:millerserhii@gmail.com)
-* 🚀  I'm currently working at [Leomax Engineering](http://leomax.de)
 * 🧠  I'm learning Flutter & Rust
 * 🤝  I'm open to collaborating on interesting projects
 
@@ -38,13 +37,3 @@ I'm an experienced full-stack developer, adept in all stages of advanced web dev
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
 </p>
-
-### Socials
-
-<p align="left"> <a href="https://www.facebook.com/millerserhii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/millerserhii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/millerserhii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/millerserhii"><img src="https://activity-graph.herokuapp.com/graph?username=millerserhii&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
